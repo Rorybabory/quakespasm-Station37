@@ -1,0 +1,31 @@
+map spaceship
+noclip
+map spaceship
+noclip
+map spaceship
+startitems
+map spaceship2
+startitems
+map finalbosstest
+startitems
+map finalbosstest
+startitems
+map finalbosstest
+startitems
+map finalelevatorf
+map finalelevator
+map aitest
+map finalbosstest
+startitems
+map finalbosstest
+startitems
+map finalbosstest
+startitems
+map finalbosstest
+startitems
+map finalbosstest
+startitems
+map finalbosstest
+startitems
+map finalbosstest
+map aitest
